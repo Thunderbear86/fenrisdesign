@@ -17,9 +17,10 @@
                             Produkter
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="produkterDropdown">
-                            <li><a class="dropdown-item" href="#">Format</a></li>
-                            <li><a class="dropdown-item" href="#">Genre</a></li>
                             <li><a class="dropdown-item" href="#">Nyheder</a></li>
+                            <li><a class="dropdown-item" href="#">Høj format</a></li>
+                            <li><a class="dropdown-item" href="#">Kvadratisk</a></li>
+                            <li><a class="dropdown-item" href="#">Panorama</a></li>
                             <li><a class="dropdown-item" href="#">Custom Design</a></li>
                         </ul>
                     </li>
