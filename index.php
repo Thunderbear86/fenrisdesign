@@ -16,6 +16,14 @@
 
 <body>
 
+<!-- Navbar -->
+
+<div class="container-fluid">
+    <div class="row">
+        <?php include'navbar.php' ?>
+    </div>
+</div>
+
 <!-- Cover image -->
 
 <div class="container-fluid">
@@ -149,7 +157,9 @@
 <!-- Footer -->
 
 <div class="container-fluid">
-    <div class="row"></div>
+    <div class="row">
+        <?php include'footer.php' ?>
+    </div>
 </div>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
